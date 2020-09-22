@@ -6,3 +6,7 @@ var justAnotherVariable;
 
 // Try this in your console:
 // console.log(typeof insertVariableName);
+
+var a = 10;
+var b = 20;
+var c = a + b;
